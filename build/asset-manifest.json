@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba5c273d.css",
+    "main.js": "/static/js/main.b6b1d681.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hotelspider.png": "/static/media/hotelspider.788f23bee607f2737b9a.png",
+    "static/media/shopify.png": "/static/media/shopify.bbfe1417e7bfd2f2b4ec.png",
+    "static/media/isluxury.png": "/static/media/isluxury.112b7f4024590e3ad67e.png",
+    "static/media/shachini.png": "/static/media/shachini.1fe32663e9cc968999a9.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.5f45fb207dd561758c1e.jpg",
+    "static/media/rubyrose.png": "/static/media/rubyrose.3141a93cedd1e97d0c74.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Resume.pdf": "/static/media/Resume.49404645565e966f51cb.pdf",
+    "static/media/truevintage.png": "/static/media/truevintage.0bb6c02844cfc1aa8092.png",
+    "static/media/logo.png": "/static/media/logo.e83a61bdbba1b4f2e79d.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.ba5c273d.css.map": "/static/css/main.ba5c273d.css.map",
+    "main.b6b1d681.js.map": "/static/js/main.b6b1d681.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba5c273d.css",
+    "static/js/main.b6b1d681.js"
+  ]
+}
